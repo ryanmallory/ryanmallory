@@ -11,7 +11,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 </a>☁️ <b>Microsoft Azure</b>
-  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/ryanmallory/azure-network-protocols)
   - [The Effect of a VPN on IP Addressing (ProtonVPN)](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
