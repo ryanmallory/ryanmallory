@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ryan, an <a href="https://www.linkedin.com/in/rcmallory/">IT Professional</a>🖥️</h1>
 
-<h2>🌐 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 </a>🖧 <b>Active Directory (VMWare Workstation, Server 2022)</b>
   - [Installing and Configuring Active Directory](https://github.com/ryanmallory/active-directory-setup)
