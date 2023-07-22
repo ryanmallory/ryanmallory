@@ -4,7 +4,7 @@
 
 </a>🖧 <b>Active Directory (VMWare Workstation, Server 2022)</b>
   - [Installing and Configuring Active Directory](https://github.com/ryanmallory/active-directory-setup)
-  - [Active Directory: Practical Applications](https://github.com/ryanmallory/AD-administration)
+  - [Active Directory: Practical Applications](https://github.com/ryanmallory/AD-applications)
 
 </a>🎫 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/ryanmallory/osticket-config)
