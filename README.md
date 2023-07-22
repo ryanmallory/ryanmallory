@@ -12,7 +12,7 @@
 
 </a>☁️ <b>Microsoft Azure</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/ryanmallory/azure-network-protocols)
-  - [The Effect of a VPN on IP Addressing (ProtonVPN)](https://github.com/ryanmallory/azure-vpn-lab)
+  - [The Effect of Azure Regions and VPNs on IP Addressing](https://github.com/ryanmallory/azure-vpn-lab)
 
 <h2>📄 Certifications:</h2>
 
