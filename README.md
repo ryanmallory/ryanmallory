@@ -7,7 +7,7 @@
   - [Active Directory Administration](https://github.com/ryanmallory/AD-administration)
 
 </a>🎫 <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration]((https://github.com/ryanmallory/osticket-config))
+  - [osTicket: Post-Installation Configuration](https://github.com/ryanmallory/osticket-config)
   - [osTicket: Ticket Life Cycle Examples](https://github.com/ryanmallory/osticket-life-cycle)
 
 </a>☁️ <b>Microsoft Azure</b>
