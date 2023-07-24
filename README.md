@@ -2,7 +2,7 @@
 
 <h2>🖥️ Information Technology Projects:</h2>
 
-</a>🖧 <b>Active Directory (VMWare Workstation, Server 2022)</b>
+</a>🖧 <b>Active Directory (Server 2022, VMWare Workstation)</b>
   - [Installing and Configuring Active Directory](https://github.com/ryanmallory/active-directory-setup)
   - [Active Directory: Practical Applications](https://github.com/ryanmallory/AD-applications)
 
