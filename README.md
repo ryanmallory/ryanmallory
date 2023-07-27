@@ -11,7 +11,7 @@
   - [osTicket: Ticket Life Cycle Examples](https://github.com/ryanmallory/osticket-life-cycle)
 
 </a>☁️ <b>Microsoft Azure</b>
-  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/ryanmallory/azure-network-protocols)
+  - [Exploring Networking Concepts (ICMP, SSH, DHCP, DNS, RDP) in Azure](https://github.com/ryanmallory/azure-network-protocols)
   - [Experimenting with VPNs and Azure Virtual Machine Regions](https://github.com/ryanmallory/azure-vpn-lab)
 
 <h2>📄 Certifications:</h2>
