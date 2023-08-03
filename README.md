@@ -17,7 +17,7 @@
 
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/9a9c879e-6fc7-4b5b-a3b2-10850aecd3a3/public_url)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
